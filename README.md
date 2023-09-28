@@ -1,0 +1,2 @@
+A console utility that receives a file, encrypts and decrypts it with the AES encryption algorithm, using javax.crypto library.
+The source code is located in the "src" folder. You can quickly launch the program using files from the folder "toQuickStart".
